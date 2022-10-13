@@ -1,0 +1,15 @@
+---UI---
+[] setup title and text
+[] form, button, and input setup display
+[] make it pleasant
+
+---JS---
+[] get info and save it and sent
+[] display the response data from the api 
+[] input title and get it display on the frontend
+
+---Backend api---
+[] javascript api to fetch the data
+[] return data and readable in the console.log
+[] get all the page data and merge to one array(maybe??)
+[] nothing is found, display "Nothing is found..."
