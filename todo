@@ -2,11 +2,13 @@
 [] setup title and text
 [] form, button, and input setup display
 [] make it pleasant
+[] ui friend pagination for multi pages data
 
 ---JS---
 [] get info and save it and sent
 [] display the response data from the api 
 [] input title and get it display on the frontend
+[] introduce pagination
 
 ---Backend api---
 [] javascript api to fetch the data

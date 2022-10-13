@@ -20,6 +20,14 @@
     font-weight: 500;
 }
 
+.search {
+    margin-top: 5vh;
+}
+
 .search__title {
     font-size: 18px;
+}
+
+.form__submit {
+    cursor:pointer;
 }
