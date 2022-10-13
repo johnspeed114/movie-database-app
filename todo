@@ -1,17 +1,17 @@
 ---UI---
-[] setup title and text
-[] form, button, and input setup display
+[x] setup title and text
+[x]  button, and input setup display
 [] make it pleasant
 [] ui friend pagination for multi pages data
 
 ---JS---
-[] get info and save it and sent
-[] display the response data from the api 
+[x] display the response data from the api in print with button click
+[] get search input and save it and sent as a parameter when fetching 
 [] input title and get it display on the frontend
 [] introduce pagination
 
 ---Backend api---
-[] javascript api to fetch the data
-[] return data and readable in the console.log
+[x] javascript api to fetch the data
+[x] return data and readable in the console.log
 [] get all the page data and merge to one array(maybe??)
 [] nothing is found, display "Nothing is found..."

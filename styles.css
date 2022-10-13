@@ -24,10 +24,10 @@
     margin-top: 5vh;
 }
 
-.search__title {
+#search__title {
     font-size: 18px;
 }
 
-.form__submit {
+#search__submitbtn {
     cursor:pointer;
 }
